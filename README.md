@@ -1,7 +1,7 @@
 # event-plataform
 Ignite lab - Event plataform
 
-# Techs 
+# technologies 
 
 - Typescript
 - GraphQL
